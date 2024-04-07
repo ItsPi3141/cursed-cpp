@@ -29,6 +29,6 @@ yeah
 counting main light_work like
     too_much<counting> nums ong
     nums becomes {2, 7, 11, 15} ong
-    spew nerdlistToYap that twoSum that nums, 9 fr fr ong
+    spew nerdlistToYap that twoSum that nums, 9 fr fr ong // 0, 1
     goodbye
 yeah
